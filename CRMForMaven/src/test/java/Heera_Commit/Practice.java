@@ -8,7 +8,7 @@ public class Practice {
 	@Test
 	
 	public void samplePractice() {
-		Reporter.log("Success");
+		Reporter.log("Successful");
 	}
 
 }
